@@ -32,7 +32,7 @@ This project applies unsupervised machine learning to stock market data to group
 ```text
 Credit-Default-SVM
 │── /code        # Python scripts for unsupervised machine learning
-│── /data        # Google Sheets
+│── /data        # Google Sheets data extraction
 │── /visuals     # Dendogram, screenshots
 │── README.md
 ```
@@ -45,7 +45,7 @@ Credit-Default-SVM
 ![Visual Screenshot](visuals/CCdatasample.png)
 
 ## Dendogram Output
-![Visual Screenshot](visuals/SVMcode.png)
+![Visual Screenshot](visuals/HCDendogram.png)
 
 
 
