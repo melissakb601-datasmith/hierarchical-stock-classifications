@@ -30,9 +30,9 @@ This project applies unsupervised machine learning to stock market data to group
 
 ## 📂 Repository Structure
 ```text
-Credit-Default-SVM
+hierarchical-stock-classifications
 │── /code        # Python scripts for unsupervised machine learning
-│── /data        # Google Sheets data extraction
+│── /data        # Google spreadsheet for data extraction
 │── /visuals     # Dendogram, screenshots
 │── README.md
 ```
