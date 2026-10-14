@@ -55,5 +55,4 @@ hierarchical-stock-classifications
 1. **Clone** or download this repository.
 2. **Open** the Google Sheets spreadsheet and modify the ticker list to the desired stocks.
 3. **Open** the project files in your Python environment. 
-4. **Edit** the stock_HC.py file to include the path to the ccdata file on your local machine.
-5. **Run** the Python program to generate predictions and view outputs.
+4. **Run** the Python program to generate predictions and view outputs.
