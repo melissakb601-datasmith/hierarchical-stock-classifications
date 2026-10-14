@@ -43,7 +43,7 @@ hierarchical-stock-classifications
 # 📸 Dashboard Preview
 
 ## Google Sheets Screenshot
-![Visual Screenshot](visuals/Google Sheets.png)
+![Visual Screenshot](visuals/Google_sheets.png)
 
 ## Dendogram Output
 ![Visual Screenshot](visuals/HCDendogram.png)
