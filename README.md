@@ -43,17 +43,17 @@ hierarchical-stock-classifications
 # 📸 Dashboard Preview
 
 ## Google Sheets Screenshot
-![Visual Screenshot](visuals/CCdatasample.png)
+![Visual Screenshot](visuals/Google Sheets.png)
 
 ## Dendogram Output
 ![Visual Screenshot](visuals/HCDendogram.png)
-
 
 
 ---
 
 # 📥 How to Use
 1. **Clone** or download this repository.
-2. **Open** the project files in your Python environment.
-3. **Edit** the ccdefault_SVM.py file to include the path to the ccdata file on your local machine.
-3. **Run** the Python program to generate predictions and view outputs.
+2. **Open** the Google Sheets spreadsheet and modify the ticker list to the desired stocks.
+3. **Open** the project files in your Python environment. 
+4. **Edit** the stock_HC.py file to include the path to the ccdata file on your local machine.
+5. **Run** the Python program to generate predictions and view outputs.
