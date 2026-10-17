@@ -13,7 +13,7 @@ print("--- Files found in this folder: ---")
 print(os.listdir(current_dir))
 print("----------------------------------")
 
-# 1. Dynamically read the stock labels from the first column
+# Dynamically read the stock labels from the first column
 stock_labels = []
 with open(file_path, "r") as f:
     reader = csv.reader(f)
@@ -23,8 +23,8 @@ with open(file_path, "r") as f:
             stock_labels.append(row[0])
 pass    
 
-# 2. Load the numeric data (skipping the first column since it has strings)
-# 'usecols' loads everything except column 0. Adjust this if your data format differs.
+# Load the numeric data (skipping the first column since it has strings)
+# 'usecols' loads everything except column 0.
 ccdata = np.loadtxt("StockData.csv", delimiter=",", skiprows=1, usecols=range(1, 5))
 
 # Normalize data
