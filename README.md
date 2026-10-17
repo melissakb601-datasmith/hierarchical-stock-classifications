@@ -46,13 +46,14 @@ hierarchical-stock-classifications
 ![Visual Screenshot](visuals/Google_sheets.png)
 
 ## Dendogram Output
+![Visual Screenshot](visuals/HCcode.png)
+
+## Python Code
 ![Visual Screenshot](visuals/HCDendogram.png)
-
-
 ---
 
 # 📥 How to Use
 1. **Clone** or download this repository.
-2. **Open** the Google Sheets spreadsheet and modify the ticker list to the desired stocks.
-3. **Open** the project files in your Python environment. 
+2. **Open** the Google Sheets spreadsheet and modify the ticker list to the desired stocks. Export the stock list to a .csv file located in the same directory as the python script.
+3. **Open** the StockGroup_HC.py in your Python environment. 
 4. **Run** the Python program to generate predictions and view outputs.
