@@ -46,10 +46,12 @@ hierarchical-stock-classifications
 ![Visual Screenshot](visuals/Google_sheets.png)
 
 ## Dendogram Output
+![Visual Screenshot](visuals/HCDendogram.png)
+
+## Python Code 
 ![Visual Screenshot](visuals/HCcode.png)
 
-## Python Code
-![Visual Screenshot](visuals/HCDendogram.png)
+
 ---
 
 # 📥 How to Use
