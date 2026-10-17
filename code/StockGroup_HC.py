@@ -9,6 +9,7 @@ from sklearn.preprocessing import MinMaxScaler
 current_dir = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(current_dir, "StockData.csv")
 
+# Ensure .csv file is located in the same directory
 print("--- Files found in this folder: ---")
 print(os.listdir(current_dir))
 print("----------------------------------")
